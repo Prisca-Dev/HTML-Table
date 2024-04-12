@@ -1,0 +1,38 @@
+h1 {
+font-family: sans-serif;
+}
+
+h2 {
+padding-top: 35px;
+}
+
+table {
+  border-collapse: collapse;
+ 
+}
+
+th {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  border: 1px solid; 
+  padding: 15px;
+  text-align: left;
+  background-color: brown;
+  color: black;
+  
+
+}
+
+td {
+  border: 1px solid;
+  padding: 10px;
+  text-align: left;
+  background-color: azure;
+}
+
+ul {
+  list-style-type: square;
+  color: rgb(36, 13, 5);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+}
